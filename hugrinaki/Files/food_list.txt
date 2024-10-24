@@ -1,0 +1,8 @@
+Name :kacchi
+Name :teheri
+Name :polao
+Name :pizza
+Name :sausage pizza
+Name :bolognese pizza
+Name :biryani
+Name :borhani
